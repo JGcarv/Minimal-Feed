@@ -1,0 +1,12 @@
+PODS:
+  - CollectionViewWaterfallLayout (0.2.2)
+
+DEPENDENCIES:
+  - CollectionViewWaterfallLayout
+
+SPEC CHECKSUMS:
+  CollectionViewWaterfallLayout: b4f9aabad89609696ea3f6dceff956dd58e2bae4
+
+PODFILE CHECKSUM: 9dba7e3afdbfa2cafe2405188f1e51308d01b05f
+
+COCOAPODS: 1.0.0.rc.1
